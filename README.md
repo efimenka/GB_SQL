@@ -1,2 +1,0 @@
-# GB_SQL
-GB_SQL
